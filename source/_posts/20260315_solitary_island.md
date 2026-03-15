@@ -26,4 +26,3 @@ tags:
 </p>
 
 ![顾村公园的湖](https://img.fansuregrin.top/blog-img/lake_of_gucun_park.jpg)
-<p align="right">顾村公园的湖</p>
