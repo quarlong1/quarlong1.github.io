@@ -1,6 +1,7 @@
 ---
-title: 险象
+title: 孤岛
 date: '2026-03-15 23:33:00'
+index_img: https://img.fansuregrin.top/blog-img/lake_of_gucun_park_cover.png
 categories:
   - - 诗词
 tags:
