@@ -49,7 +49,7 @@ Q：为什么羊驼要要啃铁栏杆？🤔
 {% gi 2 2 %}
 ![](https://img.fansuregrin.top/sy/sy_crocodile_001.jpg)
 ![啊啊啊啊呃](https://img.fansuregrin.top/sy/sy_crocodile_002.jpg)
-{% engit %}
+{% endgi %}
 
 ### 鹿🦌
 ![](https://img.fansuregrin.top/sy/sy_deer_001.jpg)
@@ -63,7 +63,7 @@ Q：为什么羊驼要要啃铁栏杆？🤔
 {% gi 2 2 %}
 ![](https://img.fansuregrin.top/sy/sy_giraffe_001.jpg)
 ![](https://img.fansuregrin.top/sy/sy_giraffe_002.jpg)
-{% engit %}
+{% endgi %}
 
 ### 金丝猴🐒
 
@@ -71,7 +71,7 @@ Q：为什么羊驼要要啃铁栏杆？🤔
 ![](https://img.fansuregrin.top/sy/sy_golden_snub-nosed_monkey_001.jpg)
 ![](https://img.fansuregrin.top/sy/sy_golden_snub-nosed_monkey_002.jpg)
 ![](https://img.fansuregrin.top/sy/sy_golden_snub-nosed_monkey_003.jpg)
-{% engit %}
+{% endgi %}
 
 ### 金毛羚牛🐂
 ![](https://img.fansuregrin.top/sy/sy_golden_takin_001.jpg)
