@@ -1,7 +1,9 @@
 ---
-title: sy_first_time
+title: 上野动物园半日游
 date: 2026-05-10 19:45:56
+index_img: https://img.fansuregrin.top/sy/sy_lake.jpeg
 categories:
+  - - 随笔
 tags:
 ---
 
