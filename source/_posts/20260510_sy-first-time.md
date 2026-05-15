@@ -5,6 +5,7 @@ index_img: https://img.fansuregrin.top/sy/sy_lake.jpeg
 categories:
   - - 随笔
 tags:
+  - 日常
 ---
 
 2026年5月3日，天气阴。没有太阳，适合出去放松。和家人一起上海野生动物园半日游。
